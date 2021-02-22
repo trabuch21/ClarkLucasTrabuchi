@@ -1,0 +1,19 @@
+{
+  "titles": {
+    "whoDoYouWantToInsure": "Wen möchtest du versichern?",
+    "publicService": "Bist du im öffentlichen Dienst beschäftigt?",
+    "wouldYouLikeADeductible": "Möchtest du eine Selbstbeteiligung?",
+    "areYouReceivingRetirement": "Beziehst du eine Altersrente oder Pension (ab dem 60. Lebensjahr)?"
+  },
+  "testData": {
+    "name": "Lucas",
+    "lastName": "Trabuchi",
+    "birthdate": "14.11.1994",
+    "street": "Fake Street",
+    "houseNumber": "1234",
+    "city": "Buenos Aires",
+    "phoneNumber": "015229320777",
+    "zipCode": "60306",
+    "fakeIban": "DE55500105174529223988"
+  }
+}
