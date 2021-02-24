@@ -24,7 +24,7 @@ npm wd-pro
 npm run start clarkTest (clarkTest is the name of the suite, we have that in clark.conf.ts)
 ```
 
-## And the last one (only you want to see a nice report you can run)
+## And the last one (only if you want to see a nice report you can run)
 
 ```bash
 npm run generate-report && npm run open-report
